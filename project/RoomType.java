@@ -1,0 +1,1 @@
+  public enum RoomType { SINGLE, DOUBLE_BED, VIP}
