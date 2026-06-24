@@ -29,3 +29,16 @@ A comprehensive Hotel Management System built in Java with Swing GUI, providing 
 
 
 ##  Visualization 
+![image alt](https://github.com/tuhuramaliklimu-debug/oop-project-with-serialaizable/blob/1037e9cb8496923f07119b83f967cf29b83bf9a7/Screenshot%202026-06-24%20172857.png)
+![image alt](https://github.com/tuhuramaliklimu-debug/oop-project-with-serialaizable/blob/1037e9cb8496923f07119b83f967cf29b83bf9a7/Screenshot%202026-06-24%20172849.png)
+![image alt](https://github.com/tuhuramaliklimu-debug/oop-project-with-serialaizable/blob/1037e9cb8496923f07119b83f967cf29b83bf9a7/Screenshot%202026-06-24%20172836.png)
+
+## NOTE
+### This application demonstrates
+* Object-Oriented Programming principles
+* MVC (Model-View-Controller) architecture
+* Java Swing GUI development
+* Data persistence using Java Serialization
+* Event-driven programming
+* Custom component styling
+  
